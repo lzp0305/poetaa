@@ -1,0 +1,111 @@
+.header { width: 1200px; margin: 0 auto; }
+
+.search-text { margin-top: 23px; margin-right: 10px; width: 0; height: 18px; outline: none; border: 0; float: right; padding: 0 10px; transition: all 0.5s; }
+
+.search-btn { margin-top: 24px; margin-right: 39px; width: 19px; height: 19px; outline: none; border: 0; float: right; cursor: pointer; background: url(../images1/search.png) no-repeat; font-size: 0; }
+
+.menu { width: 1200px; height: 52px; float: left; margin-top: 21px; }
+
+.menu-list { width: 174px; float: left; }
+
+.menu-list a { display: block; font-size: 16px; padding-top: 36px; text-align: center; color: #000; }
+
+.menu-list:hover a { color: #d64640; }
+
+.logo-box { width: 156px; height: 52px; float: left; }
+
+.logo { display: block; width: 156px; height: 52px; background: url(../images1/logo.png) center no-repeat; }
+
+.slider { width: 1200px; height: 603px; margin: 30px auto 0; position: relative; }
+
+.swiper-container { width: 1920px; position: absolute; left: -360px; }
+
+.swiper-pagination-bullet {width: 75px; height: 5px; background: #dcdcdc; border-radius: 0; }
+
+.swiper-pagination-bullet-active { background: #007ae1; }
+
+.swiper-button { width: 100%; float: left; position: relative; top: -300px; }
+
+.swiper-button-prev { width: 60px; height: 60px; top: 0; margin-top: 0; background: url(../images1/left.png) no-repeat; }
+
+.swiper-button-prev:hover { background: url(../images1/left-hover.png) no-repeat; }
+
+.swiper-button-next { width: 60px; height: 60px; top: 0; margin-top: 0; background: url(../images1/right.png) no-repeat; }
+
+.swiper-button-next:hover { background: url(../images1/right-hover.png) no-repeat; }
+
+.main-list { width: 1200px; margin: 49px auto 0; }
+
+.left-list { width: 600px; height: 363px; padding-top: 37px; float: left; }
+
+.title1 { margin-left: 39px; font-size: 24px; line-height: 30px; color: #fff; }
+
+.title2 { margin-left: 39px; margin-top: 20px; font-size: 14px; line-height: 15px; color: #fff; }
+
+.list-button { display: block; width: 116px; height: 36px; margin-left: 39px; margin-top: 50px; font-size: 16px; line-height: 36px; text-align: center; background: #fff; color: #ab1723; border-radius: 18px; }
+
+.right-list-box { width: 600px; height: 400px; float: left; }
+
+.right-list { width: 300px; height: 200px; float: left; }
+
+.little-title1 { margin-top: 16px; font-size: 20px; line-height: 30px; }
+
+.little-title2 {margin-top: 7px; font-size: 14px; line-height: 24px; }
+
+.little-button { display: block; width: 84px; height: 26px; margin-top: 41px; border-radius: 13px; text-align: center; font-size: 12px; line-height: 26px; color: #fff; background: #b61a25; }
+
+.black { color: #000; }
+
+.gray { color: #7c7c7c; }
+
+.white { color: #fff; }
+
+.left { margin-left: 11px; }
+
+.right { margin-left: 146px;}
+
+.footer { width: 100%; background: #f2f2f2; margin-top: 60px; }
+
+.center { width: 1200px; margin: 0 auto; padding-top: 50px;}
+
+.footer-menu { width: 140px; float: left; }
+
+.fm-title { display: block; width: 140px; font-size: 14px; color: #363636; line-height: 24px; text-align: center; margin-bottom: 15px; }
+
+.fm-list { display: block; width: 140px; font-size: 12px; color: #6d6d6d; line-height: 24px; text-align: center; margin-bottom: 10px; }
+
+.fm-list:hover { color: #f00; }
+
+.tel { float: left; margin-left: 50px; padding-left: 60px; background: url(../images1/tel.png) top left no-repeat; font-size: 14px; line-height: 28px; color: #6d6d6d; }
+
+.tel-title { font-size: 16px; line-height: 30px; }
+
+.tel span { font-size: 30px; line-height: 30px; color: #db453a; }
+
+.tel a { color: #6d6d6d; }
+
+.tel a:hover { color: #f00; }
+
+.center-box { width: 1080px; height: 50px; border-bottom: 1px solid #bfbfbf; margin: 0 auto; }
+
+.friends-link { margin-left: 50px; font-size: 14px; line-height: 30px; margin-top: 15px; color: #6d6d6d; }
+.friends-link a { color: #6d6d6d; margin-right: 25px; }
+.friends-link a:hover { color: #f00; }
+
+.bottom-list { margin-left: 40px; font-size: 14px; line-height: 30px; margin-top: 10px; color: #6d6d6d; }
+.bottom-list a { color: #6d6d6d; margin: 0 10px;}
+.bottom-list a:hover { color: #f00; }
+
+.footer-mes { margin-left: 50px; font-size: 14px; line-height: 30px; margin-top: 6px; color: #ababab; padding-bottom: 66px;}
+.footer-mes a { color: #ababab; }
+.footer-mes a:hover { color: #f00; }
+
+
+
+
+
+
+
+
+
+
