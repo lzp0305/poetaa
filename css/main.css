@@ -36,9 +36,10 @@
 
 .swiper-button-next:hover { background: url(../images1/right-hover.png) no-repeat; }
 
-.main-list { width: 1200px; margin: 49px auto 0; }
+.main-list { width: 1200px; margin: 49px auto 0; overflow: hidden; }
 
-.left-list { width: 600px; height: 363px; padding-top: 37px; float: left; }
+.left-list { width: 600px; height: 363px; padding-top: 37px; float: left; background-repeat: no-repeat; background-size: 100%;  -webkit-transition:all 0.3s ease 0s;-moz-transition: all 0.3s ease 0s;-o-transition: all 0.3s ease 0s;transition: all 0.3s ease 0s; }
+.left-list:hover { background-size: 105%; }
 
 .title1 { margin-left: 39px; font-size: 24px; line-height: 30px; color: #fff; }
 
@@ -46,9 +47,10 @@
 
 .list-button { display: block; width: 116px; height: 36px; margin-left: 39px; margin-top: 50px; font-size: 16px; line-height: 36px; text-align: center; background: #fff; color: #ab1723; border-radius: 18px; }
 
-.right-list-box { width: 600px; height: 400px; float: left; }
+.right-list-box { width: 600px; height: 400px; float: left; overflow: hidden; }
 
-.right-list { width: 300px; height: 200px; float: left; }
+.right-list { width: 300px; height: 200px; float: left; background-repeat: no-repeat; background-size: 100%;  -webkit-transition:all 0.3s ease 0s;-moz-transition: all 0.3s ease 0s;-o-transition: all 0.3s ease 0s;transition: all 0.3s ease 0s;  }
+.right-list:hover { background-size: 105%; }
 
 .little-title1 { margin-top: 16px; font-size: 20px; line-height: 30px; }
 
